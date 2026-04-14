@@ -3,17 +3,12 @@
 ### 🚀 Software Developer | AI & RPA Enthusiast
 
 ---
-
 ### 📊 GitHub Statistics
 
-Here is a summary of my impact and the technologies I use most frequently:
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafa-0105&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-0105&layout=compact&langs_count=7&theme=dracula" />
-</div>
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafa-0105&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-0105&theme=dracula&layout=donut&cache_seconds=1800" />
+</p>
 ---
 
 ### 🐍 Snake Game
