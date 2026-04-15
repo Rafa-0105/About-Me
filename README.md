@@ -1,14 +1,76 @@
-# Hi there, I'm Rafael Gambin 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px" />
+  
+  <h1> 🚀 Rafael Gambin </h1>
+  <p><b>Full Stack Developer | AI & RPA Specialist</b></p>
 
-### 🚀 Software Developer | AI & RPA Enthusiast
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-gambin)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafa-0105)
+  
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px" />
+</div>
 
 ---
-### 📊 GitHub Statistics
+
+### 🛠️ Tech Stack
+
+**Linguagens e Frameworks:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+</p>
+
+**Infra & Ferramentas:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Platform-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+</p>
+
+---
+
+### 📊 Detalhes de Desenvolvimento
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafa-0105&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-0105&theme=dracula&layout=donut&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rafa-0105&layout=compact&langs_count=7&theme=dark&hide_border=true&title_color=00FF00&icon_color=00FF00&cache_buster=1" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rafa-0105&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&cache_buster=1" height="180" />
 </p>
+
+---
+
+**📈 Estatísticas de Contribuição**
+<div align="center">
+<img src="https://img.shields.io/badge/Status-Ativo-00FF00?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/Contribuições-Diárias-00FF00?style=for-the-badge&logo=git&logoColor=black" />
+<img src="https://img.shields.io/badge/Projetos-Open_Source-00FF00?style=for-the-badge&logo=visual-studio-code&logoColor=black" />
+</div>
+
+
+<div align="center">
+<img src="https://img.shields.io/github/followers/Rafa-0105?label=Followers&style=for-the-badge&color=00FF00&logo=github" />
+<img src="https://img.shields.io/github/stars/Rafa-0105?label=Total%20Stars&style=for-the-badge&color=00FF00&logo=reverbnation" />
+</div>
+
+
+---
+
+### 📩 Entre em Contato
+
+<p align="left">
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> "The secret of the Lord is with them that fear Him." ✨
+
 ---
 
 ### 🐍 Snake Game
@@ -16,26 +78,6 @@
 This graph represents my commit activity transformed into the classic game:
 
 ![Snake animation](https://raw.githubusercontent.com/Rafa-0105/About-Me/output/github-contribution-grid-snake-dark.svg)
-
----
-
-### 🛠️ Technologies & Tools
-
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/RPA-00AEEF?style=for-the-badge&logo=uipath&logoColor=white" />
-</div>
-
----
-
-### 📫 Reach Me At
-
-* **LinkedIn:** https://www.linkedin.com/in/rafael-gambin/
 
 ---
 
