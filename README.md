@@ -21,7 +21,7 @@
 **Languages, Frameworks & Tools:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,dotnet,cs,py,mysql,postgres,docker,azure,github,vscode&perline=13" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,dotnet,cs,py,mysql,postgres,docker,azure,html,css,github,vscode&perline=13" alt="My Skills" />
   </a>
 </p>
 
